@@ -11,7 +11,7 @@ ng serve
 ```
 
 > [!NOTE] 
-> Remember you have to run nopm i before ng serve. 
+> Remember you have to run npm i before ng serve. 
 
 > [!IMPORTANT]
 > If you need install tailwind or bootstrap follow the instructions bellow
